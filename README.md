@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -149,8 +148,7 @@
             <button onclick="cambiarImagen(1)">Siguiente</button>
             <button onclick="cerrarGaleria()">Regresar</button>
         </div>
-    </div>
-
+   
     <script>
         let imagenes = [];
         for (let i = 4; i <= 94; i++) {
